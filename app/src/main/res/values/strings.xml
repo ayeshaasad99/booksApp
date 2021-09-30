@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BooksApp</string>
+    <string name="welcome">Books App</string>
+    <string name="detail">Detail</string>
+    <string name="books_app">Books App</string>
+    <string name="details">Details</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="mybooks">MyBooks</string>
+
+
+</resources>
